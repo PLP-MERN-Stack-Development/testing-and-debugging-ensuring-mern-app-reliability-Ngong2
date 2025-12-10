@@ -1,0 +1,22 @@
+{
+  "sampleTasks": [
+    {
+      "title": "Complete project documentation",
+      "description": "Write comprehensive documentation for the project",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "title": "Code review",
+      "description": "Review pull requests from team members",
+      "priority": "medium",
+      "status": "in-progress"
+    },
+    {
+      "title": "Update dependencies",
+      "description": "Update npm packages to latest versions",
+      "priority": "low",
+      "status": "pending"
+    }
+  ]
+}
